@@ -1,0 +1,338 @@
+year,country,category
+1901,Germany,3
+1902,Germany,1
+1902,United Kingdom,1
+1902,the Netherlands,2
+1903,Denmark,1
+1903,France,2
+1903,Sweden,1
+1904,Russia,1
+1904,United Kingdom,2
+1905,Germany,3
+1906,France,1
+1906,Italy,1
+1906,Spain,1
+1906,United Kingdom,1
+1907,France,2
+1907,Germany,1
+1907,USA,1
+1908,France,2
+1908,Germany,2
+1908,United Kingdom,1
+1909,"Alsace (then Germany, now France)",1
+1909,Germany,1
+1909,Switzerland,1
+1909,United Kingdom,1
+1910,Germany,2
+1910,the Netherlands,1
+1911,France,1
+1911,Germany,1
+1911,Sweden,1
+1912,France,2
+1912,Sweden,1
+1912,USA,1
+1913,France,1
+1913,Switzerland,1
+1913,the Netherlands,1
+1914,Austria,1
+1914,Germany,1
+1914,USA,1
+1915,Germany,1
+1915,United Kingdom,2
+1917,United Kingdom,1
+1918,Germany,2
+1919,Belgium,1
+1919,Germany,1
+1920,Denmark,1
+1920,France,1
+1920,Germany,1
+1921,Germany,1
+1921,United Kingdom,1
+1922,Denmark,1
+1922,Germany,1
+1922,United Kingdom,2
+1923,Austria,1
+1923,Canada,2
+1923,USA,1
+1924,Sweden,1
+1924,the Netherlands,1
+1925,Germany,3
+1926,Denmark,1
+1926,France,1
+1926,Sweden,1
+1927,Austria,1
+1927,Germany,1
+1927,USA,1
+1927,United Kingdom,1
+1928,Germany,1
+1928,United Kingdom,1
+1929,France,1
+1929,Sweden,1
+1929,United Kingdom,2
+1929,the Netherlands,1
+1930,Germany,1
+1930,India,1
+1930,USA,1
+1931,Germany,5
+1931,USA,1
+1932,Germany,1
+1932,USA,1
+1932,United Kingdom,2
+1933,Germany,1
+1933,USA,1
+1933,United Kingdom,1
+1934,USA,5
+1935,France,2
+1935,Germany,1
+1935,United Kingdom,1
+1936,Austria,2
+1936,Germany,2
+1936,USA,1
+1936,United Kingdom,1
+1937,Hungary,1
+1937,Switzerland,1
+1937,USA,1
+1937,United Kingdom,2
+1938,Belgium,1
+1938,Germany,2
+1938,Italy,1
+1939,Germany,3
+1939,Switzerland,1
+1939,USA,1
+1943,Denmark,1
+1943,Sweden,1
+1943,USA,2
+1944,Germany,1
+1944,USA,3
+1945,Finland,1
+1945,USA,1
+1945,United Kingdom,3
+1946,USA,5
+1947,Argentina,1
+1947,USA,2
+1947,United Kingdom,2
+1948,Sweden,1
+1948,Switzerland,1
+1948,United Kingdom,1
+1949,Japan,1
+1949,Portugal,2
+1949,Switzerland,1
+1949,USA,2
+1950,Federal Republic of Germany,2
+1950,Switzerland,1
+1950,USA,3
+1950,United Kingdom,1
+1951,Ireland,1
+1951,USA,3
+1951,United Kingdom,1
+1952,USA,3
+1952,United Kingdom,2
+1953,Federal Republic of Germany,2
+1953,USA,2
+1953,United Kingdom,1
+1953,the Netherlands,1
+1954,Federal Republic of Germany,2
+1954,USA,5
+1954,United Kingdom,1
+1955,Sweden,1
+1955,USA,3
+1956,Federal Republic of Germany,2
+1956,USA,5
+1956,USSR,1
+1956,United Kingdom,1
+1957,Italy,1
+1957,USA,2
+1957,United Kingdom,1
+1958,USA,3
+1958,USSR,5
+1958,United Kingdom,1
+1959,Czechoslovakia,1
+1959,USA,4
+1960,Australia,1
+1960,USA,2
+1960,United Kingdom,1
+1961,Federal Republic of Germany,1
+1961,USA,4
+1962,USA,2
+1962,USSR,1
+1962,United Kingdom,4
+1963,Australia,1
+1963,Federal Republic of Germany,2
+1963,Italy,1
+1963,USA,2
+1963,United Kingdom,2
+1964,Federal Republic of Germany,1
+1964,USA,2
+1964,USSR,2
+1964,United Kingdom,1
+1965,France,3
+1965,Japan,1
+1965,USA,3
+1966,France,1
+1966,USA,3
+1967,Federal Republic of Germany,1
+1967,Sweden,1
+1967,USA,3
+1967,United Kingdom,2
+1968,USA,5
+1969,Norway,2
+1969,USA,4
+1969,United Kingdom,1
+1969,the Netherlands,1
+1970,Argentina,1
+1970,France,1
+1970,Sweden,2
+1970,USA,2
+1970,United Kingdom,1
+1971,Canada,1
+1971,USA,2
+1971,United Kingdom,1
+1972,USA,8
+1972,United Kingdom,2
+1973,Austria,1
+1973,Federal Republic of Germany,2
+1973,USA,3
+1973,United Kingdom,3
+1974,Belgium,2
+1974,USA,3
+1974,United Kingdom,2
+1975,Denmark,2
+1975,Switzerland,1
+1975,USA,4
+1975,USSR,1
+1975,United Kingdom,2
+1976,USA,6
+1977,Belgium,1
+1977,Sweden,1
+1977,USA,6
+1977,United Kingdom,2
+1978,Switzerland,1
+1978,USA,5
+1978,USSR,1
+1978,United Kingdom,1
+1979,Federal Republic of Germany,1
+1979,Italy,1
+1979,USA,6
+1979,United Kingdom,2
+1980,France,1
+1980,USA,7
+1980,United Kingdom,1
+1981,Japan,1
+1981,Sweden,1
+1981,USA,7
+1982,Sweden,2
+1982,USA,2
+1982,United Kingdom,2
+1983,USA,5
+1984,Switzerland,4
+1984,USA,1
+1984,United Kingdom,2
+1985,Federal Republic of Germany,1
+1985,USA,5
+1986,Canada,1
+1986,Federal Republic of Germany,1
+1986,Italy,1
+1986,Switzerland,2
+1986,USA,4
+1987,France,2
+1987,Switzerland,2
+1987,USA,4
+1988,Federal Republic of Germany,2
+1988,France,1
+1988,Switzerland,1
+1988,USA,5
+1988,United Kingdom,1
+1989,Federal Republic of Germany,1
+1989,Norway,1
+1989,USA,6
+1990,USA,9
+1991,Federal Republic of Germany,2
+1991,France,1
+1991,Switzerland,1
+1991,USA,1
+1992,France,1
+1992,Switzerland,1
+1992,USA,4
+1993,Canada,1
+1993,USA,7
+1994,Canada,1
+1994,Federal Republic of Germany,1
+1994,USA,6
+1995,Federal Republic of Germany,2
+1995,USA,7
+1996,Switzerland,1
+1996,USA,7
+1996,United Kingdom,2
+1997,Denmark,1
+1997,France,2
+1997,USA,6
+1997,United Kingdom,1
+1998,USA,8
+1998,United Kingdom,1
+1999,USA,3
+1999,the Netherlands,2
+2000,Japan,1
+2000,Russia,1
+2000,Sweden,1
+2000,USA,8
+2001,Japan,1
+2001,USA,9
+2001,United Kingdom,2
+2002,Japan,2
+2002,Switzerland,1
+2002,USA,8
+2002,United Kingdom,1
+2003,Russia,1
+2003,USA,7
+2003,United Kingdom,1
+2004,Israel,2
+2004,USA,10
+2005,Australia,3
+2005,France,1
+2005,Germany,2
+2005,Israel,1
+2005,USA,6
+2006,USA,6
+2007,France,2
+2007,Germany,2
+2007,USA,5
+2007,United Kingdom,1
+2008,France,2
+2008,Germany,1
+2008,Japan,3
+2008,USA,6
+2009,China,1
+2009,Israel,1
+2009,USA,10
+2009,United Kingdom,2
+2010,Denmark,1
+2010,Japan,1
+2010,USA,4
+2010,United Kingdom,4
+2011,Australia,1
+2011,France,1
+2011,Israel,1
+2011,USA,9
+2012,France,2
+2012,Japan,1
+2012,USA,8
+2012,United Kingdom,1
+2013,Belgium,1
+2013,France,1
+2013,USA,9
+2013,United Kingdom,1
+2014,France,1
+2014,Germany,2
+2014,Japan,3
+2014,Norway,2
+2014,USA,3
+2014,United Kingdom,1
+2015,Canada,1
+2015,China,1
+2015,Japan,2
+2015,USA,5
+2015,United Kingdom,2
+2016,France,1
+2016,Japan,1
+2016,USA,4
+2016,the Netherlands,1

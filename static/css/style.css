@@ -1,0 +1,167 @@
+/* to avoid using cached responses of your browser, try refreshing your content using hold down ⌘ Cmd and ⇧ Shift and then press R on your keyboard.*/
+/* https://fonts.google.com/ */
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Baloo+Tamma+2&display=swap');
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Baloo Tamma 2', cursive;
+  /* background-color: rgba(50, 115, 220, 0.2); */
+  background-image: url('https://www.freevector.com/uploads/vector/preview/23952/DD-Blurred-Bokeh-Background-50023-Preview.jpg');
+  /* background-image: url('https://i.pinimg.com/474x/da/25/d1/da25d1912f92791e37f80de02628258a.jpg'); */
+  height: 100%;
+  width: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+.navbar {
+  background-color: rgba(230, 216, 136, 0.01) !important;
+}
+.fa:hover {
+  color: red;
+  opacity: 0.5;
+}
+.swal-text {
+  background-color: #fefae3;
+  padding: 17px;
+  border: 1px solid #f0e1a1;
+  display: block;
+  margin: 22px;
+  font-size: 20px;
+  text-align: center;
+  color: #61534e;
+}
+
+.jumbotron {
+  background-color: rgb(255, 255, 255, 0.2);
+}
+
+.container-fluid {
+  width: 96%;
+  background-color: rgb(255, 255, 255, 0.95);
+  margin: 1% 2% 1% 2%;
+  opacity: 0.8;
+}
+
+img {
+  width: 100%;
+  /* color: #ac434e */
+}
+
+.alfred {
+  width: 10%;
+  opacity: 0.5;
+}
+
+.golden {
+  /* font-size: 64px; */
+  background: linear-gradient(#3a3806 20%, #facb7e 60%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h2 {
+  padding: 1%;
+}
+
+.fa {
+  color: rgba(50, 115, 220, 0.6);
+}
+
+#map {
+  height: 350px;
+  width: 100%;
+}
+.title {
+  padding: 3%;
+}
+
+.el {
+  position: absolute;
+  opacity: 0.9;
+  width: 0.04%;
+  height: 30%;
+  margin: 4% 0% 0% 40%;
+  /* margin: auto; */
+  transform-origin: 30% 90%;
+  background: #facb7e;
+}
+
+.table {
+  margin: auto;
+  padding: 4%;
+}
+.factstable {
+  background-color: rgb(250, 203, 126, 0.5);
+  font-size: larger;
+}
+
+.year-selector {
+  background-image: url('https://i.pinimg.com/736x/46/2d/ac/462dacc62461b7803b36d40fc39337f6.jpg');
+  padding: 1%;
+  color: white;
+  text-shadow: 2px 2px 5px #000000;
+  opacity: 0.8;
+  width: 100%;
+  margin-top: -4%;
+}
+.country-selector {
+  background-image: url('https://i.pinimg.com/736x/46/2d/ac/462dacc62461b7803b36d40fc39337f6.jpg');
+  padding: 1%;
+  margin-bottom: 5%;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  opacity: 0.8;
+  width: 100%;
+}
+.animation-selector {
+  background-image: url('https://i.pinimg.com/736x/46/2d/ac/462dacc62461b7803b36d40fc39337f6.jpg');
+  padding: 1%;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  opacity: 0.8;
+  width: 100%;
+}
+select {
+  width: 200px;
+  font-size: 20px;
+  text-align: center;
+}
+
+#byYear {
+  /* margin-top: -2%; */
+}
+
+#prizeByYear {
+  margin: auto;
+}
+
+.nobelCards {
+  border-style: dotted;
+  border-color: #e3c591;
+  margin: 4%;
+  padding-top: 3%;
+}
+
+.golden-background {
+  background-color: rgb(250, 203, 126, 0.5);
+}
+
+strong {
+  font-weight: bold !important;
+}
+
+#chartdiv {
+  width: 100%;
+  height: 600px;
+}
+
+#chartdiv2 {
+  width: 100%;
+  height: 500px;
+  margin-top: 5%;
+}
