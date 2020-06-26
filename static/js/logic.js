@@ -381,7 +381,7 @@ function myPlot(fyear = '2003') {
                                     title: "Good job!",
                                     text: `You like ${categoryUpperCase}!  Maybe you will be the next year Nobel laureate!`,
                                     icon: "success",
-                                    button: "“NOTHING WILL WORK UNLESS YOU DO.” –MAYA ANGELOU",
+                                    button: "“NOTHING WILL WORK UNLESS YOU DO.”  –MAYA ANGELOU",
 
                                 })
                             });

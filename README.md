@@ -25,5 +25,4 @@ Using amCharts dataviz libraries (https://www.amcharts.com/) for Word Cloud Char
 
 SweetAlert JavaScript library is very easy to use and can help modernize the default boring JS alert we are used to customizable and beautiful ones. SweetAlert makes popup messages easy and pretty.
 
-Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API.
-It works with CSS properties, SVG, DOM attributes and JavaScript Objects.
+![Screenshot](screenshots/6.png)
