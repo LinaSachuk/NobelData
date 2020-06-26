@@ -7,7 +7,7 @@ Data are from the API http://api.nobelprize.org to create a database and https:/
 
 ![Screenshot](screenshots/1.png)
 
-Nobel laureates database which we have retrieved as nobel. The database has three collections, prizes, laureates and facts. In the prizes collection, every document correspond to a single Nobel prize, and in the laureates collection - to a single Nobel laureate. The facts collection has a document with a quick facts about history of the Nobel Prize.
+Nobel laureates database has three collections, prizes, laureates and facts. In the prizes collection, every document correspond to a single Nobel prize, and in the laureates collection - to a single Nobel laureate. The facts collection has a document with a quick facts about history of the Nobel Prize.
 
 ![Screenshot](screenshots/2.png)
 
