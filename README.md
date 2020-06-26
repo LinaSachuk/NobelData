@@ -1,4 +1,5 @@
 Project idea - Nobel Prize Winners
+Site is published at https://linasachuk.github.io/NobelData/
 
 Visualization will include a Python Flask–powered RESTful API, HTML/CSS, JavaScript, and MongoDB cloud database.
 
