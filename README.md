@@ -15,6 +15,9 @@ Nobel laureates database which we have retrieved as nobel. The database has thre
 
 Data timeline is between 1901 and 2019, the Nobel Prizes were awarded 597 times to 950 people and organizations.
 
+![Screenshot](3.png)
+![Screenshot](4.png)
+
 SweetAlert JavaScript library is very easy to use and can help modernize the default boring JS alert we are used to customizable and beautiful ones. SweetAlert makes popup messages easy and pretty.
 
 Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API.
