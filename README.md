@@ -1,9 +1,7 @@
-Project idea - Nobel Prize Winners
+Project idea - Nobel Prize Winners Data Visualization.
 Site is published at https://linasachuk.github.io/NobelData/
 
-Visualization will include a Python Flask–powered RESTful API, HTML/CSS, JavaScript, and MongoDB cloud database.
-
-Selenium WebDriver drives a browser natively, as a real user would, either locally or on remote machines.
+Visualization will include a Python Flask–powered RESTful API, Selenium WebDriver, HTML/CSS, JavaScript, D3, amCharts, SweetAlert, Anime.js and MongoDB cloud database.
 
 Data are from the API http://api.nobelprize.org to create a database and https://www.nobelprize.org/ to web-scrape the interesting quick facts.
 
