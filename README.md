@@ -17,11 +17,11 @@ Data timeline is between 1901 and 2019, the Nobel Prizes were awarded 597 times 
 
 Using amCharts dataviz libraries (https://www.amcharts.com/) for Radar Chart. Radar chart is used to display directional or circular visual representation of a 2-dimensional data
 
-![Screenshot](4.png)
+![Screenshot](screenshots/4.png)
 
 Using amCharts dataviz libraries (https://www.amcharts.com/) for Word Cloud Chart. It helps visualize weight or importance of individual words from a keyword list from Nobel Prize Winners Motivations.
 
-![Screenshot](5.png)
+![Screenshot](screenshots/5.png)
 
 SweetAlert JavaScript library is very easy to use and can help modernize the default boring JS alert we are used to customizable and beautiful ones. SweetAlert makes popup messages easy and pretty.
 
