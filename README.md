@@ -17,10 +17,11 @@ Data timeline is between 1901 and 2019, the Nobel Prizes were awarded 597 times 
 
 ![Screenshot](3.png)
 
-Using amCharts 4 for Radar Chart. Radar chart is used to display directional or circular visual representation of a 2-dimensional data
+Using amCharts dataviz libraries (https://www.amcharts.com/) for Radar Chart. Radar chart is used to display directional or circular visual representation of a 2-dimensional data
+
 ![Screenshot](4.png)
 
-Using amCharts 4 for Word Cloud Chart. It helps visualize weight or importance of individual words from a keyword list from Nobel Prize Winners Motivations.
+Using amCharts dataviz libraries (https://www.amcharts.com/) for Word Cloud Chart. It helps visualize weight or importance of individual words from a keyword list from Nobel Prize Winners Motivations.
 
 ![Screenshot](5.png)
 
