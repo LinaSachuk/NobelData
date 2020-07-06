@@ -87,7 +87,7 @@ function optionChanged() {
 
 // Use d3.json() to fetch data from JSON file
 // Incoming data is internally referred to as data
-// 1967 1977 2003
+// Fixing the data 
 function myPlot(fyear = '2003') {
     // console.log('fyear:', fyear)
 
