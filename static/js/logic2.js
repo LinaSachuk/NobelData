@@ -1,6 +1,6 @@
 // Word cloud 
 
-d3.csv("../static/data/nobel.csv", function (data) {
+d3.csv("NobelData/static/data/nobel.csv", function (data) {
     csvData = data;
     console.log('csvData:', data)
     var text = ''
