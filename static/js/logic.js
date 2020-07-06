@@ -92,19 +92,19 @@ function myPlot(fyear = '2003') {
     // console.log('fyear:', fyear)
 
     // reading a prizes json 
-    d3.json('../static/data/prizes.json', function (prizes) {
+    d3.json('/NobelData/static/data/prizes.json', function (prizes) {
         console.log('prizes:', prizes);
 
         // reading a laureates json 
-        d3.json('../static/data/laureates.json', function (laureates) {
+        d3.json('/NobelData/static/data/laureates.json', function (laureates) {
             console.log('laureates:', laureates)
 
 
-            d3.csv("../static/data/nobel.csv", function (data) {
+            d3.csv("/NobelData/static/data/nobel.csv", function (data) {
                 csvData = data;
                 // console.log('csvData:', data)
 
-                d3.json('../static/data/countries.json', function (coordinates) {
+                d3.json('/NobelData/static/data/countries.json', function (coordinates) {
                     console.log('coordinates:', coordinates)
                     console.log('country name:', coordinates[0].name)
                     console.log('country latlng:', coordinates[0].latlng)
@@ -543,7 +543,7 @@ function myPlot(fyear = '2003') {
 
 
                     // getting countries shapes
-                    var link = 'static/data/nobelCountries.geojson';
+                    var link = '/NobelData/static/data/nobelCountries.geojson';
 
                     // Our style object
                     var mapStyle = {
