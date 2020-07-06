@@ -3,6 +3,7 @@
 // adding header with Nobel Prize Facts table - scraped data from Nobel.org web site
 d3.json('../static/data/facts.json', function (response) {
 
+
     // console.log(response);
     factst = d3.select('.factst');
     factst.append('p').text(response[0].title);
