@@ -1,9 +1,8 @@
-
-
+// test
 // adding header with Nobel Prize Facts table - scraped data from Nobel.org web site
 d3.json('/NobelData/static/data/facts.json', function (response) {
     var path = document.location.pathname
-    print(path)
+    // print(path)
 
 
 
